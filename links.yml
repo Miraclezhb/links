@@ -54,6 +54,10 @@ categories:
         logo: https://guqing.xyz/avatar
         url: https://guqing.xyz
         description: 毕生所求无它，爱与自由而已
+      - title: 纯情
+        logo: https://blog.xiaohack.org/favicon.ico
+        url: https://blog.xiaohack.org
+        description: 专注于前端开发与程序拓展的资源分享平台
 
   - category: 社区
     icon: linecons-doc
