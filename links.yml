@@ -64,3 +64,33 @@ categories:
         url: https://www.deepin.org/index/zh
         description: 基于 linux 的国产开源操作系统
         tags: 操作系统,linux
+      - title: github
+        logo: https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png
+        url: https://github.com/
+        description: 同性交友网站
+        tags: git,托管
+      - title: gitee
+        logo: https://gitee.com/favicon.ico
+        url: https://gitee.com/
+        description: 国内最大的代码托管平台
+        tags: git,托管
+        
+  - category: 学习之路
+    icon: linecons-doc
+    links:
+      - title: 菜鸟教程
+        logo: https://static.runoob.com/images/favicon.ico
+        url: https://www.runoob.com/
+        description: 学的不仅是技术，更是梦想
+        tags: 教程,工具合集
+      - title: 汉城国学网
+        logo: https://guoxue.httpcn.com/favicon.ico
+        url: https://guoxue.httpcn.com/
+        description: 国学经典
+        tags: 诗词歌赋,经史子集
+      - title: 哔哩哔哩
+        logo: https://www.bilibili.com/favicon.ico?v=1
+        url: https://www.bilibili.com/
+        description: 弹幕视频网站
+        tags: 视频,弹幕
+        
