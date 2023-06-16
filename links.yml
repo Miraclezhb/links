@@ -50,6 +50,10 @@ categories:
         logo: https://guqing.xyz/avatar
         url: https://guqing.xyz
         description: 毕生所求无它，爱与自由而已
+      - title: CyberWEI's Blog
+        logo: https://www.cyberwei.com/upload/2022/09/fapta.jpg
+        url: https://www.cyberwei.com/
+        description: CyberWEI's Blog
 
   - category: 社区
     icon: linecons-doc
